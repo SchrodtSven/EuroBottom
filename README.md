@@ -1,11 +1,15 @@
 # EuroBottom
 A Parser in PHP 8.4+ for Markdown[^1] Syntax
 
+  ## Foo level 2
 
 
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+    Create a Markdown  (.md or .markdown extension.)
+    Markdown  application.
+    Convert the Markdown  to an HTML document.
+    
 
 
 
@@ -20,4 +24,4 @@ A Parser in PHP 8.4+ for Markdown[^1] Syntax
 
 
 --------
-[^1]: Mark down -> Euro bottom
+[^1]: Mark down -> Euro bottom (Currency direction)
